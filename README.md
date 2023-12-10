@@ -34,7 +34,7 @@ O projeto consiste na criação de uma pokedex web, que faz a listagem de todos 
 Faça um clone desse repositório e acesse o diretório.
 
 ```
-$ git clone https://github.com/marcelogomes90/pokedex-react.git && cd pokedex-react/Pokedex
+$ git clone [https://github.com/Thamireslopescz/PokeApi-React.git](https://github.com/Thamireslopescz/PokeApi-React.git)
 ```
 
 ```
